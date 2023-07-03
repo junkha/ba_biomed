@@ -1,0 +1,12 @@
+#CHROM
+POS
+REF
+ALT
+INFO
+sample_control
+sample_tumor
+start
+end
+genotype
+TCN
+PID
