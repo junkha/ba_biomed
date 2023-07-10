@@ -55,8 +55,8 @@ def main(filename: str, outfile: str):
 
 if __name__ == "__main__":
 
-    filename = "/home/junkhann/daten/LOH_positions_aggregated.tsv.gz"
-    outfile = "/home/junkhann/daten/LOH_position_count_mmml_onek1k.json"
+    filename = "/home/junkhann/daten/intersect_mmml_onek1k_with_header.vcf.gz"
+    outfile = "/home/junkhann/daten/intersect_position_count.json"
 
     main(filename, outfile)
     
